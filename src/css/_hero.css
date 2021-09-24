@@ -1,0 +1,14 @@
+.hero {
+  position: relative;
+  height: 34.625rem;
+}
+
+.hero__background {
+  position: absolute;
+  object-fit: contain;
+  object-position: center;
+}
+
+.hero__copy h2 {
+  margin: 0;
+}
